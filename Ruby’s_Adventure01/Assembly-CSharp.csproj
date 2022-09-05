@@ -56,10 +56,10 @@
     <Analyzer Include="D:\VisualStudio2019\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\RubyController.cs" />
-    <Compile Include="Assets\Scripts\HealthCollectible.cs" />
     <Compile Include="Assets\Scripts\DamageZone.cs" />
     <Compile Include="Assets\Scripts\EnemyController.cs" />
+    <Compile Include="Assets\Scripts\RubyController.cs" />
+    <Compile Include="Assets\Scripts\HealthCollectible.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\2DBeginner_Third-PartyNotice.txt" />
